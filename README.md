@@ -8,6 +8,8 @@ A wave is calculated by measuring the distance between each vertex on the sphere
 
 Play around with the *size* and *speed* variables and see how it behaves.  
 
+[Live demo](http://danieldelcore.com/lab/3)
+
 ## Initial setup
 - `npm install --global gulp-cli` : Install gulp globally
 - `npm i` Install dependencies
